@@ -1,0 +1,10 @@
+.nav-cont{
+    height: 10vh;
+    width: 100vw;
+    background-color: rgba(23, 26, 38, 1);
+}
+.logo{
+    height: 60px;
+    width: 60px;
+    margin-left: 20px;
+}
